@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hello, I'm Oyedokun Lukman!
 
-<!--
-**lukmanOye/lukmanOye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.🚀 Interested in: I'm passionate about becoming a software engineer and constantly expanding my skills.
 
-Here are some ideas to get you started:
+.🤝 Looking to Collaborate: I'm eager to join forces on open-source projects! Let's build something amazing together.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.📫 How to Reach Me: The best way to get in touch is via email at lukmanmiles280@gmail.com.
+
+.💡 Ask Me About: I love discussing all things software development,security.
+
+.📛 Pronouns: He/His
+
+
