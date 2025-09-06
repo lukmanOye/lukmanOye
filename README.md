@@ -1,24 +1,54 @@
-👋 Hello, I'm Oyedokun Lukman!
+👋 Hello, I'm Oyedokun Lukman! __________________________________________________________________________________________________________________________________________________________
+
+![Coding Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+__________________________________________________________________________________________________________________________________________________________
+**Here's a quick summary about me**:
+
 
 .🚀 Interested in: I'm passionate about becoming a software engineer and constantly expanding my skills.
-
 .🤝 Looking to Collaborate: I'm eager to join forces on open-source projects! Let's build something amazing together.
-
 .📫 How to Reach Me: The best way to get in touch is via email at lukmanmiles280@gmail.com.
-
 .💡 Ask Me About: I love discussing all things software development,security.
-
 .📛 Pronouns: He/His
+__________________________________________________________________________________________________________________________________________________________
+## 🏆 Trophies:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukmanOye&theme=onedark" alt="lukmanOye" /></a> </p>
 
+## 📞 Connect with me Here:
+<p align="left">
+<a href="https://linkedin.com/in/oyedokun-lukman-68a77b288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lukmanoye" height="30" width="40" /></a>
+<a href="https://lukmanoye.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lukmanoye" height="30" width="40" /></a>
 
-## 📊 GitHub Stats
+</p>
 
+## 💻 Languages and Tools:
+<p align="left"> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+</p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukmanOye&show_icons=true&theme=dracula)](https://github.com/lukmanOye)
+## 📊 GitHub Stats:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lukmanOye&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukmanOye&show_icons=true&theme=radical&locale=en&layout=compact&hide=php,ruby" alt="lukmanOye" /></p>
 
-## 🚀 Most Used Languages
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukmanOye&show_icons=true&theme=radical&locale=en" alt="lukmanOye" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukmanOye&theme=radical" alt="lukmanOye" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukmanOye&label=Profile%20views&color=0e75b6&style=flat" alt="lukmanOye" /> </p>
+
+## 🎯 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukmanOye&layout=compact&theme=radical&hide_border=true&langs_count=6)
 
@@ -28,46 +58,11 @@
 - **JavaScript** (32.7%)
 - **Python** (14.48%)
 
-## 🏆 Achievements
-
-| Badge | Points |
-| :--- | :--- |
-| Rainbow Lang User | 12pt |
-| Super Committee | 1.1pst |
-| Ultra Repo Creator | 60pt |
-| High Puller | 58pt |
-| Many Friends | 15pt |
-| Junior Dev | 7pt |
-| First Star | 3pt |
-
 ## 📈 Activity Metrics
 
-- **Total Contributions:** 1,957 (Sep 12, 2023 - Present)
-- **Current Streak:** 6 days (Since Sep 6)
-- **Longest Streak:** 26 days (Nov 24, 2023 - Dec 19, 2023)
-
-## 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lukmanoye)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lukmanoye)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/lukmanoye)
-
-## 💻 Technologies & Tools
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-## 📂 Popular Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lukmanOye&repo=your-repo-name&theme=radical)](https://github.com/lukmanOye/your-repo-name)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lukmanOye&repo=your-repo-name&theme=radical)](https://github.com/lukmanOye/your-repo-name)
+- **Total Contributions:** 1,243 (Jan 12, 2023 - Present)
+- **Current Streak:** 8 days
+- **Longest Streak:** 21 days (Mar 24, 2023 - Apr 13, 2023)
 
 ---
 
