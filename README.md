@@ -13,7 +13,8 @@
 
 ## 📊 GitHub Stats
 
-![lukmanOye's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukmanOye&show_icons=true&theme=radical)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukmanOye&show_icons=true&theme=dracula)](https://github.com/lukmanOye)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lukmanOye&theme=radical)
 
