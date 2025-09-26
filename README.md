@@ -1,6 +1,26 @@
-👋 Hello, I'm Oyedokun Lukman! __________________________________________________________________________________________________________________________________________________________
+👋 Hello, I'm Oyedokun Lukman! 
+
+
+Welcome to my GitHub profile! I'm a dynamic and results-driven professional with a passion for technology, specializing in back-end web development, technical support, cloud computing and IT infrastructure in general. I have experience working with technologies such as Docker, Spring Boot, Java, PostMan,Swageer and MySQL. I'm always eager to learn and innovate
+
+Location:Lagos,Nigeria
+Email: oyedokun.lukmanoye@gmail.com
+📞 Phone: +23407049642241
+🌍 Website: <a href="https://lukmanoye.github.io/" target="_blank">Website</a>
+__________________________________________________________________________________________________________________________________________________________
 
 ![Coding Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+**🚀 Technical Skills**
+. Languages: JAVA, SQL
+. Frameworks/Technologies: Spring Boot, Hibernate,JSP 
+. Databases: MySQL, PostgreSQL, MongoDB
+. DevOps: Docker
+. Operating Systems:  Windows Server
+
+**🌱 Current Learning Focus**
+I'm currently learning more about Node.js
+
 
 __________________________________________________________________________________________________________________________________________________________
 **Here's a quick summary about me**:
@@ -11,6 +31,17 @@ ________________________________________________________________________________
 .📫 How to Reach Me: The best way to get in touch is via email at lukmanmiles280@gmail.com.
 .💡 Ask Me About: I love discussing all things software development,security.
 .📛 Pronouns: He/His
+
+**📂 Featured Projects**
+Here are some of the projects I've been working on:
+
+1. Dynamic Technologies Project
+This is a portfolio I use to showcase the services I offer.
+<p><a href="https://lukmanoye.github.io/" target="_blank">Website</a></p>
+
+2. Docker Hub Profile
+Explore the Docker images I’ve published.
+<p><a href="https://hub.docker.com/u/milesbrain" target="_blank">Docker Hub</a>
 __________________________________________________________________________________________________________________________________________________________
 ## 🏆 Trophies:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukmanOye&theme=onedark" alt="lukmanOye" /></a> </p>
