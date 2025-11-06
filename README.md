@@ -20,7 +20,7 @@ ________________________________________________________________________________
 
 
 **🌱 Current Learning Focus**
-I'm currently learning more about **Node.js** and integrating **AWS** with Java Spring Boot applications.
+I'm currently learning integrating **AWS** with Java Spring Boot applications.
 __________________________________________________________________________________________________________________________________________________________
 **Here's a quick summary about me**:
 
