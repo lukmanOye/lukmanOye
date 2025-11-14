@@ -1,6 +1,6 @@
 **👋 Hello, I'm Oyedokun Lukman**! 
 
-Welcome to my GitHub profile! I'm a dynamic and results-driven professional with a passion for technology, specializing in back-end web development, technical support, cloud computing and IT infrastructure in general. I have experience working with technologies such as **Docker**, **RestApi**, **JAVAFX**, **JAVA**, **MONGODB** ** and  **MySQL**. I'm always eager to learn and innovate.
+Welcome to my GitHub profile! I'm a dynamic and results-driven professional with a passion for technology, specializing in back-end web development, technical support, cloud computing and IT infrastructure in general. I have experience working with technologies such as **Docker**,**EXPRESSJS**, **RestApi**, **JAVAFX**, **JAVA**, **MONGODB** ** and  **MySQL**. I'm always eager to learn and innovate.
 
 📍 **Location**: Lagos, Nigeria  
 📫 **Email**: [oyedokun.lukmanoye@gmail.com](mailto:oyedokun.lukmanoye@gmail.com)  
@@ -12,10 +12,10 @@ ________________________________________________________________________________
 ![Coding Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 **🚀 Technical Skills**
-- Languages: JAVA, SQL, Python
+- Languages: JAVA, SQL, Python,Node Js
 - Frameworks/Technologies: Spring Boot, Hibernate, JSP, JAVAFX
 - Databases: MySQL, PostgreSQL, MongoDB
-- DevOps: Docker,
+- DevOps: Docker,Maven
 - Operating Systems: Windows Server
 
 
